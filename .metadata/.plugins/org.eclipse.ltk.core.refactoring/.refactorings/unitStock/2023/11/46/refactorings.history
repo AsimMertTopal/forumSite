@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;unitStock&apos;&#x0D;&#x0A;- Original project: &apos;unitStock&apos;&#x0D;&#x0A;- Original element: &apos;unitStock/src/main/java/com.example.unitStock.security.JwtAuthenticationEntrypoint&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.unitStock.security.JwtAuthenticationEntrypoint" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1699544363757" subPackages="false" version="1.0"/>
+</session>
